@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/woertle/static/css/main.0e140e1d.css",
+    "main.js": "/woertle/static/js/main.a4f77d7e.js",
+    "static/js/787.3500bfec.chunk.js": "/woertle/static/js/787.3500bfec.chunk.js",
+    "index.html": "/woertle/index.html",
+    "main.0e140e1d.css.map": "/woertle/static/css/main.0e140e1d.css.map",
+    "main.a4f77d7e.js.map": "/woertle/static/js/main.a4f77d7e.js.map",
+    "787.3500bfec.chunk.js.map": "/woertle/static/js/787.3500bfec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e140e1d.css",
+    "static/js/main.a4f77d7e.js"
+  ]
+}
